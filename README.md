@@ -11,6 +11,8 @@ This project is designed to help users track their expenses easily and effective
 1. [Aksa Rose](https://github.com/AksaRose)
 2. [Adithya Ramesh](https://github.com/Adithya6ramesh)
 ## Link to product walkthrough
+![pic2](https://github.com/AksaRose/Expensetracker/assets/117498997/31ad9006-24b4-4f11-982e-a788ef0326b7)
+![pic1](https://github.com/AksaRose/Expensetracker/assets/117498997/fb689505-867e-49fb-934a-4887d95c5598)
 
 [Deployed link](https://expensesstracker.streamlit.app/)
 
