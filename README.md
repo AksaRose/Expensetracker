@@ -8,10 +8,12 @@
 # Expense Tracker
 This project is designed to help users track their expenses easily and effectively. It allows users to add, categorize, and visualize their expenses over time. With an intuitive interface built using Streamlit, users can quickly input their expenses and see summaries and visualizations of their spending patterns. This project is awesome and helps in managing personal finances efficiently.
 ## Team members
-1. [Aksa Rose](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Adithya Ramesh](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Aksa Rose](https://github.com/AksaRose)
+2. [Adithya Ramesh](https://github.com/Adithya6ramesh)
 ## Link to product walkthrough
-[link to video](Link Here)
+
+[Deployed link](https://expensesstracker.streamlit.app/)
+
 ## How it Works ?
 The Expense Tracker application is built using Streamlit, a powerful and easy-to-use Python framework for building web applications. Here's a step-by-step explanation of how the project works:
 
